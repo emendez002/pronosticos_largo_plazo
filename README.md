@@ -1,6 +1,6 @@
 # pronosticos_largo_plazo
 
-crc
+_(sin descripción)_
 
 Mapa web publicado con **GitMap** (plugin de QGIS).
 
